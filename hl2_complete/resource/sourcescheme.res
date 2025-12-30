@@ -2,11 +2,6 @@
 
 Scheme
 {
-	BaseSettings
-	{
-		MainMenu.MenuItemHeight		"14"
-	}
-
 	Fonts
 	{
 		"ChapterTitle"
@@ -42,4 +37,5 @@ Scheme
 			}
 		}
 	}
+
 }
